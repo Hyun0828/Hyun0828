@@ -6,11 +6,14 @@
 
 # Skills
 ## Platforms & Languages
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B8CC?style=plastic&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=Spring&logoColor=white"/>
+<div>
+    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B8CC?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=Spring&logoColor=white"/>
+</div>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spdlqj4818)](https://solved.ac/spdlqj4818/)
 
