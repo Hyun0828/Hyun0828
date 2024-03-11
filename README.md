@@ -4,11 +4,11 @@
 ## Skills
 ### Platforms & Languages
 <div>
-    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-A8B8CC?style=plastic&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B8CC?style=for-the-badge&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=Spring&logoColor=white"/>
 </div>
 
 ## Links
