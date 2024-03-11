@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://velog.io/@spdlqj4818/posts" target="_blank"><img src="https://simpleicons.org/icons/velog.svg/velog.io-32cd32?style=plastic&logo=appveyor&logoColor=fffafa"/></a>
+<a href="https://velog.io/@spdlqj4818/posts" target="_blank"><img src="https://simpleicons.org/icons/velog.svg/"velog.io"-32cd32?style=plastic&logo=appveyor&logoColor=fffafa"/></a>
