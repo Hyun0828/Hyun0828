@@ -15,8 +15,8 @@
 <a href="https://velog.io/@spdlqj4818/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
 </a>
-
-
+<br>
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spdlqj4818)](https://solved.ac/spdlqj4818/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
