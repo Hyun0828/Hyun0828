@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hyun0828/Hyun0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
