@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@spdlqj4818/posts" target="_blank"><img src="https://simpleicons.org/icons/velog.svg/velog-#20C997?style=plastic&logo=appveyor&logoColor=#fffafa"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun0828&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
