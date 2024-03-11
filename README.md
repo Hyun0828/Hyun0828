@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
 </a>
 
+# Skills
+## Platforms & Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B8CC?style=plastic&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
