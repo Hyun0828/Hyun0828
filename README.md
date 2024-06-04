@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/>
 </a>
 
-## Others
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun0828&layout=compact&theme=dark)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
