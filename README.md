@@ -28,7 +28,7 @@
       <td><a href="https://pangmoo.notion.site/2025-GDGoC-KR-HACKATHON-f06eb012ef3741c2bf2bf3c6b8009a54" target="_blank">2025 GDGoC New Year Hackathon 백야</a></td>
       <td>2025.01.18</td>
       <td>대상</td>
-      <td><a href="https://pangmoo.notion.site/Team-22-02c09ee8495145d4ae24cc3e75cffdd7" target="_blank">돌봄지기</a></td>
+      <td><a href="https://nine-grade-d65.notion.site/22-17eb5a1edfe480f89ad6fbd4935ad688?pvs=4" target="_blank">돌봄지기</a></td>
     </tr
   </tbody>
 </table>
