@@ -1,8 +1,8 @@
 ## Career
-> **중앙대학교 소프트웨어학부 소프트웨어학과**
+**중앙대학교 소프트웨어학부 소프트웨어학과**
 > 2020.03 ~ 202
 
-> **Backend Developer Internship - 선도소프트**  
+**Backend Developer Internship - 선도소프트**  
 > 2025.03.04 ~ 2025.06.30  
 
 ---
