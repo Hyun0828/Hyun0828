@@ -8,8 +8,10 @@
 **Backend Developer Internship - 선도소프트**  
 > 2025.03.04 ~ 
 
----
+<br>
+<br>
 
+  
 ## 🛠 Stack
 <p>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -18,14 +20,18 @@
     <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/>
 </p>
 
----
+<br>
+<br>
+
 
 ## 💻 Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun0828&layout=compact&theme=dark" />
 </p>
 
----
+<br>
+<br>
+
 
 ## 🏆 Awards
 **🏅 2025 GDGoC New Year Hackathon 백야** (2025.01.18)  
