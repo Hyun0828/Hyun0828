@@ -5,7 +5,7 @@
 **GDGoC 중앙대학교 4기 Member**
 > 2024.08 ~
 
-**Backend Developer Internship - 선도소프트**  
+**Internship - 선도소프트**  
 > 2025.03.04 ~ 
 
 <br>
