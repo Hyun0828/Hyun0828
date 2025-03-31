@@ -32,12 +32,12 @@
 <br>
 
 ## 🎰 Project
-**당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토**
+**당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토 (BE)** 
 - **링크:** [Github](https://github.com/CAU-CSE-24-02-Capstone-Design/BackEnd)
 - **기술/스택:** 
 - **기간:** 2024.08.01 ~ 2025.02.28
 
-**외국인 노동자 안전관리 서비스 - LinguaTALK**
+**외국인 노동자 안전관리 서비스 - LinguaTALK (BE)** 
 - **링크:** [Github](https://github.com/GDSC-CAU/team5-backend)
 - **기술/스택:** 
 - **기간:** 
