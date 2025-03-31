@@ -32,11 +32,6 @@
 <br>
 
 
-## 💻 Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun0828&layout=compact&theme=dark" />
-</p>
-
 <br>
 <br>
 
