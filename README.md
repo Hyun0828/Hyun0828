@@ -34,29 +34,10 @@
 ## 🎰 Project
 **당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토 (BE/DevOps)** 
 - **[Github](https://github.com/CAU-CSE-24-02-Capstone-Design/BackEnd)** 
-- **기술/스택 :**
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=GithubActions&logoColor=white"/>
 - **기간 :** 2024.08.01 ~ 2025.02.28
 
 **외국인 노동자 안전관리 서비스 - LinguaTALK (BE)** 
 - **[Github](https://github.com/GDSC-CAU/team5-backend)** 
-- **기술/스택 :**
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Google Translate-4285F4?style=flat&logo=Google Translate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=Amazon%20Web%20Services&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=GithubActions&logoColor=white"/>
 - **기간 :** 2025.01.01 ~ 
 
 <br>
