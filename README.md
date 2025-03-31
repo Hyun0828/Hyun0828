@@ -32,9 +32,6 @@
 <br>
 
 
-<br>
-<br>
-
 
 ## 🏆 Awards
 **🏅 2025 GDGoC New Year Hackathon 백야** (2025.01.18)  
