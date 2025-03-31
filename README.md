@@ -1,20 +1,20 @@
 ## 💼 Career
 **중앙대학교 소프트웨어학부 소프트웨어학과**  
-> 2020.03 ~
+- 2020.03 ~
 
 **Internship - 선도소프트**  
-> 2025.03.04 ~ 
+- 2025.03.04 ~ 
 
 <br>
 <br>
 
 ## 🫡 Activity
 **GDGoC 중앙대학교 4기 Member**
-> 2024.08 ~
+- 2024.08 ~
 
 **[삼성전자 DX] 2025 동계 대학생 S/W 알고리즘 역량 강화 특강**
-> 2025.02.03 ~ 2025.02.28
->
+- 2025.02.03 ~ 2025.02.28
+
 
 <br>
 <br>
@@ -33,26 +33,20 @@
 
 ## 🎰 Project
 **당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토**
-> **링크:** [Github](https://github.com/CAU-CSE-24-02-Capstone-Design/BackEnd)
-> 
-> **기술/스택:** 
-> 
-> **기간:** 2024.08.01 ~ 2025.02.28
+- **링크:** [Github](https://github.com/CAU-CSE-24-02-Capstone-Design/BackEnd)
+- **기술/스택:** 
+- **기간:** 2024.08.01 ~ 2025.02.28
 
 **외국인 노동자 안전관리 서비스 - LinguaTALK**
-> **링크:** [Github](https://github.com/GDSC-CAU/team5-backend)
-> 
-> **기술/스택:** 
-> 
-> **기간:** 
+- **링크:** [Github](https://github.com/GDSC-CAU/team5-backend)
+- **기술/스택:** 
+- **기간:** 
 
 <br>
 <br>
 
 ## 🏆 Awards
 **🏅 2025 GDGoC New Year Hackathon 백야** (2025.01.18)  
-> **수상:** 대상
-> 
-> **팀:** [돌봄지기](https://nine-grade-d65.notion.site/22-17eb5a1edfe480f89ad6fbd4935ad688?pvs=4)
-> 
-> **링크:** [GDGoC New Year Hackathon 백야](https://pangmoo.notion.site/2025-GDGoC-KR-HACKATHON-f06eb012ef3741c2bf2bf3c6b8009a54)  
+- **수상:** 대상
+-  **팀:** [돌봄지기](https://nine-grade-d65.notion.site/22-17eb5a1edfe480f89ad6fbd4935ad688?pvs=4)
+- **링크:** [GDGoC New Year Hackathon 백야](https://pangmoo.notion.site/2025-GDGoC-KR-HACKATHON-f06eb012ef3741c2bf2bf3c6b8009a54)  
