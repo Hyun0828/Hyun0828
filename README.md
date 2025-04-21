@@ -1,6 +1,6 @@
 ## 💼 Career
 **중앙대학교 소프트웨어학부 소프트웨어학과**  
-- 2020.03 ~
+- 2020.03 ~ 
 
 **Internship - 선도소프트**  
 - 2025.03.04 ~ 
@@ -10,7 +10,7 @@
 
 ## 🫡 Activity
 **GDGoC 중앙대학교 4기 Member**
-- 2024.08 ~
+- 2024.08 ~ 
 
 **[삼성전자 DX] 2025 동계 대학생 S/W 알고리즘 역량 강화 특강**
 - 2025.02.03 ~ 2025.02.28
@@ -34,7 +34,7 @@
 ## 🎰 Project
 **당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토 (BE/DevOps)** 
 - **[Github](https://github.com/CAU-CSE-24-02-Capstone-Design/BackEnd)** 
-- **기간 :** 2024.08.01 ~ 
+- **기간 :** 2024.08.01 ~ 2025.01.31
 
 **외국인 노동자 안전관리 서비스 - LinguaTALK (BE)** 
 - **[Github](https://github.com/GDSC-CAU/team5-backend)** 
