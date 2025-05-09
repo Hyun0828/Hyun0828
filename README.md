@@ -40,7 +40,7 @@
 - **기간 :** 2025.01.01 ~ 2025.04.15
 
 **STACKPOT (BE)**
-- **[Github](https://github.com/STACKPOT/STACKPOT-BE)
+- **[Github](https://github.com/STACKPOT/STACKPOT-BE)**
 - **기간 :** 2025.04 ~
 
 <br>
