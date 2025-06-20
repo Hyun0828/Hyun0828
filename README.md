@@ -31,17 +31,19 @@
 <br>
 
 ## 🎰 Project
-**당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토 (BE/DevOps)** 
+**1. 당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토 (BE/DevOps)** 
 - **[Github](https://github.com/CAU-CSE-24-02-Capstone-Design/BackEnd)** 
 - **기간 :** 2024.08.01 ~ 2025.01.31
 
-**외국인 노동자 안전관리 서비스 - LinguaTALK (BE)** 
+**2. 외국인 노동자 안전관리 서비스 - LinguaTALK (BE)** 
 - **[Github](https://github.com/GDSC-CAU/team5-backend)** 
 - **기간 :** 2025.01.01 ~ 2025.04.15
 
-**STACKPOT (BE)**
+**3. STACKPOT (BE)**
 - **[Github](https://github.com/STACKPOT/STACKPOT-BE)**
 - **기간 :** 2025.04 ~
+
+**4. 행정안전부[국립재난안전연구원] 산불 상황 대시보드 (Full Stack)**
 
 <br>
 <br>
