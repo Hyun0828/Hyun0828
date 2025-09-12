@@ -51,7 +51,7 @@
 <br>
 
 ## 🏆 Awards
-**🏅 2025 GDGoC New Year Hackathon 백야** (2025.01.18)  
+**🏅 [2025 GDGoC New Year Hackathon 백야](https://yozm.wishket.com/magazine/detail/2974/)** (2025.01.18)  
 - **수상:** 대상
 -  **팀:** [돌봄지기](https://nine-grade-d65.notion.site/22-17eb5a1edfe480f89ad6fbd4935ad688?pvs=4)
 - **링크:** [GDGoC New Year Hackathon 백야](https://pangmoo.notion.site/2025-GDGoC-KR-HACKATHON-f06eb012ef3741c2bf2bf3c6b8009a54)  
