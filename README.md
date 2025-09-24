@@ -36,7 +36,7 @@
 - **[Github](https://github.com/GDSC-CAU/team5-backend)** 
 - **기간 :** 2025.01.01 - 2025.04.15
 
-**3. STACKPOT (BE)**
+**3. 사이드 프로젝트를 효율적으로 - STACKPOT (BE)**
 - **[Github](https://github.com/STACKPOT/STACKPOT-BE)**
 - **기간 :** 2025.04 -
 
