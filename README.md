@@ -30,15 +30,15 @@
 ## 🎰 Project
 **1. 당신은 중요한 순간에 말문이 막혀본 적 있으신가요? - 복숭아멘토 (BE/DevOps)** 
 - **[Github](https://github.com/CAU-CSE-24-02-Capstone-Design)** 
-- **기간 :** 2024.08.01 ~ 2025.01.31
+- **기간 :** 2024.08.01 - 2025.01.31
 
 **2. 외국인 노동자 안전관리 서비스 - LinguaTALK (BE)** 
 - **[Github](https://github.com/GDSC-CAU/team5-backend)** 
-- **기간 :** 2025.01.01 ~ 2025.04.15
+- **기간 :** 2025.01.01 - 2025.04.15
 
 **3. STACKPOT (BE)**
 - **[Github](https://github.com/STACKPOT/STACKPOT-BE)**
-- **기간 :** 2025.04 ~
+- **기간 :** 2025.04 -
 
 
 <br>
@@ -48,4 +48,3 @@
 **🏅 [2025 GDGoC New Year Hackathon 백야](https://yozm.wishket.com/magazine/detail/2974/)** (2025.01.18)  
 - **수상:** 대상
 -  **팀:** [돌봄지기](https://nine-grade-d65.notion.site/22-17eb5a1edfe480f89ad6fbd4935ad688?pvs=4)
-- **링크:** [GDGoC New Year Hackathon 백야](https://pangmoo.notion.site/2025-GDGoC-KR-HACKATHON-f06eb012ef3741c2bf2bf3c6b8009a54)  
