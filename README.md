@@ -48,3 +48,6 @@
 **🏅 [2025 GDGoC New Year Hackathon 백야](https://yozm.wishket.com/magazine/detail/2974/)** (2025.01.18)  
 - **수상:** 대상
 -  **팀:** [돌봄지기](https://nine-grade-d65.notion.site/22-17eb5a1edfe480f89ad6fbd4935ad688?pvs=4)
+
+**🥉 2025-2학기 중앙대학교 코딩경진대회**
+- **수상:** 장려상
